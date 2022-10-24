@@ -10,7 +10,7 @@ class ListNode {
 }
 
 
-class Solution {
+class Solution_1 {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
